@@ -1,0 +1,3 @@
+/home/ns/Documents/ProgamLang/CandCpp/src/LearnCppByDoing/application_cpp/swaptemplate/out/build/CMakeFiles/SWAPTEMP.dir
+/home/ns/Documents/ProgamLang/CandCpp/src/LearnCppByDoing/application_cpp/swaptemplate/out/build/CMakeFiles/edit_cache.dir
+/home/ns/Documents/ProgamLang/CandCpp/src/LearnCppByDoing/application_cpp/swaptemplate/out/build/CMakeFiles/rebuild_cache.dir

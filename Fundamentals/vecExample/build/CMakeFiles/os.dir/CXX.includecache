@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nitshuklayahoo.com/Documents/ProgamLang/CandCpp/src/LearnCppByDoing /application_cpp/vecExample/main.cpp
+iostream
+-
+vector
+-
+

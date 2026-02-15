@@ -1,0 +1,11 @@
+# C++ Program to Swap between two entries 
+  This example contains an example which uses templates and c++ class to swap. 
+
+# Cmake build 
+  - CMamkeLists.txt 
+    cmake_minimum_required(VERSION 3.22.2)
+    project(SWAPTEMP)
+    add_executable( ${PROJECT_NAME} swapTemplate.cpp)
+  - mkdir -p out/build/
+  - cmake -S ../../ -B .
+  - ./SWAPTEMP
