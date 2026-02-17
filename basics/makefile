@@ -1,6 +1,6 @@
 # Compiler and flags
 CXX = g++
-CXXFLAGS = -O3 -std=c++17 -Wall -Wextra
+CXXFLAGS = -O3 -std=c++20 -Wall -Wextra
 
 # Default target
 all:
