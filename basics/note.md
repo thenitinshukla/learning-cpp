@@ -22,11 +22,6 @@ mdspan has four customization points
 - Interoperability: It serves as a common vocabulary type that different libraries can use without forcing users to adopt specific container types
 
 
-==========================================
-# AOS vs SOA 
-========================================
-1. AOS
-
 # ==========================================
 # AOS vs SOA
 # ==========================================
